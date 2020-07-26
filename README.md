@@ -11,7 +11,7 @@ The loss value of **1.5987** has been achieved which gives good results. You can
 Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
 
 
-You can download the weights <a href='https://github.com/bharatc9530/Image-Captioning/raw/master/weights/time_inceptionV3_2.8876_loss.h5'>here</a>.
+You can download the weights <a href='https://github.com/bharatc9530/Image-Captioning/master/weights/time_inceptionV3_1.5987_loss.h5'>here</a>.
 
 # Examples
 
